@@ -7,5 +7,6 @@ Thesis Title: The search for z>5 Active Galactic Nuclei (AGN) in the Chandra Dee
 
 (Short) Description: Hubble, Chandra and Spitzer (∼ 100 GB data) image analysis project involving source detection & photometry, using python (Jupyter Notebooks, pandas, Astropy, etc.) & astrophysics software (CIAO, Eazy, SWarp, TopCat)
 
-Supervisors : Prof. Kevin Schawinski
+Supervisor: Prof. Kevin Schawinski
+
 Assistant: Dr. Anna Weigel
